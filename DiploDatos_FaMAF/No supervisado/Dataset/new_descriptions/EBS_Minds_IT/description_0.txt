@@ -1,0 +1,1 @@
+EBS Minds is currently seeking a Data Engineer that will be part of a team that is developing the future data collection and storage strategy leveraging Microsoft Azure. This position will be focused on centralizing data and collaborating with engineering to get the most value out of our data.

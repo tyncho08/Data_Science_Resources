@@ -1,0 +1,1 @@
+Experience in High Availability (Always on, cluster, Replication) technologies.

@@ -1,0 +1,1 @@
+compute, storage, database, analytics, application, and deployment services

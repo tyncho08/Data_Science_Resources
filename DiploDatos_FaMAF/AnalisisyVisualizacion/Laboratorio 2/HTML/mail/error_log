@@ -1,0 +1,6 @@
+[06-Dec-2017 00:00:34 America/Argentina/Cordoba] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/pazhenin/public_html/mail/lib/classes/Swift/Transport/StreamBuffer.php on line 95
+[07-Dec-2017 21:57:07 America/Argentina/Cordoba] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/pazhenin/public_html/mail/lib/classes/Swift/Transport/StreamBuffer.php on line 95
+[07-Dec-2017 22:07:31 America/Argentina/Cordoba] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/pazhenin/public_html/mail/lib/classes/Swift/Transport/StreamBuffer.php on line 95

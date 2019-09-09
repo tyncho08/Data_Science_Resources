@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#header_wrap {
+	 background-image: none;
+	 background-color: #13264a;
+}
+
+a {
+	color: #ea4110;
+}
+
+#footer_wrap {
+	background-color: #13264a;
+}
+
+footer a {
+	color: #ea4110;
+}

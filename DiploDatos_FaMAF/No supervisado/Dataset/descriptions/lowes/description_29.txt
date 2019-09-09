@@ -1,0 +1,1 @@
+Participate in application pre-deployment activities and integration testing, verifying code check-ins and unit tests, executing the software build process and verifying the build prior to releasing it to test

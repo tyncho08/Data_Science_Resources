@@ -1,0 +1,1 @@
+Principal Network Engineer responsibilities involve defining, developing, maintaining and advising on the effective use of the Publix information technology architecture. The Network Engineering team is responsible for LAN/WAN Networks, Datacenter networking, Load Balancers, Wireless, DNS Systems, VoIP, and Quality of Service

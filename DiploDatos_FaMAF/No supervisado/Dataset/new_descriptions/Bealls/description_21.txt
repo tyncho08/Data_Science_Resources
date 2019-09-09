@@ -1,0 +1,1 @@
+5 years of support of MS SQL Server 2008R2/2012/2014/2016 databases (monitor, recover, tune, design, replicate, install, configure) with emphasis on SQL Server 2016.

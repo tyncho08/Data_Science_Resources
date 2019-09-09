@@ -1,0 +1,1 @@
+managing the routing and delivery of SMS, MMS, and next generation messaging

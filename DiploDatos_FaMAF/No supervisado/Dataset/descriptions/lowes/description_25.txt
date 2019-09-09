@@ -1,0 +1,1 @@
+This includes responsibility for assisting in the development of a formal GQS (Global Quality Services) Framework and providing end-to-end quality assurance throughout the entire Software Development Life Cycle (SDLC) for moderately to highly complex IT initiatives in multiple SQA domains

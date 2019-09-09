@@ -1,0 +1,1 @@
+Good understanding of Azure AD and securing access to various Azure services 

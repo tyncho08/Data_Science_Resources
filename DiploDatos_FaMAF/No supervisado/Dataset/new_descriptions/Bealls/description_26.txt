@@ -1,0 +1,1 @@
+Understanding of data infrastructure design/maintenance, architecture and security issues, and advanced troubleshooting

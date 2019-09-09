@@ -1,0 +1,1 @@
+provides transaction processing and intelligence solutions that enable mobile communications for mobile network operators

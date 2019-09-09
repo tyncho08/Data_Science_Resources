@@ -1,0 +1,1 @@
+Perform daily system monitoring: verifying the integrity and availability of all server resources, systems and key processes, reviewing system/application logs for errors, vulnerabilities, and improvements, and verifying completion of scheduled jobs such as backups

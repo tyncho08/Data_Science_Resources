@@ -1,0 +1,1 @@
+Serve as a team member on projects to advise on data and database-related issues and represent the enterprise view of the database; collaborate with project lead and others to transform logical data models into physical database designs; build physical databases to support projects; review, test, and evaluate the impact of changes to the database environment

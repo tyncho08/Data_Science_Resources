@@ -1,0 +1,13 @@
+matplotlib==2.1.2
+python-utils 
+numpy==1.14.0
+urllib3==1.22
+pandas==0.22.0  
+gmplot==1.2.0
+textacy==0.6.1
+chardet==3.0.4
+ftfy==4.4.3
+scikit-learn==0.19.1
+scipy==1.0.1 
+jupyter
+spacy==2.0.11

@@ -1,0 +1,1 @@
+Rates business knowledge (risk, pricing, yield curve and inflation curve construction etc...)

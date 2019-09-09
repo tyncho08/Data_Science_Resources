@@ -1,0 +1,67 @@
+Ablandamiento,Golpes,0.75
+Ablandamiento,Ninguno,0.25
+"Ablandamiento, Alejamiento de vínculos","Quemaduras, Golpes",1.0
+"Ablandamiento, Amenazas","Asfixia, Golpes, Sometimiento a corriente eléctrica",1.0
+Alejamiento de vínculos,Golpes,0.5454545454545454
+Alejamiento de vínculos,"Golpes, Heridas penetrantes",0.09090909090909091
+Alejamiento de vínculos,Muerte,0.09090909090909091
+Alejamiento de vínculos,Otras formas de maltrato físico,0.09090909090909091
+Alejamiento de vínculos,Quemaduras,0.09090909090909091
+Alejamiento de vínculos,"Quemaduras, Golpes, Heridas penetrantes",0.09090909090909091
+"Alejamiento de vínculos, Disparos intimidatorios",Otras formas de maltrato físico,1.0
+Amenazas,Golpes,0.5555555555555556
+Amenazas,Heridas penetrantes,0.08333333333333333
+Amenazas,"Golpes, Otras formas de maltrato físico",0.05555555555555555
+Amenazas,"Asfixia, Caídas provocadas, Golpes",0.027777777777777776
+Amenazas,"Asfixia, Caídas provocadas, Golpes, Otras formas de maltrato físico",0.027777777777777776
+Amenazas,"Asfixia, Golpes",0.027777777777777776
+Amenazas,"Asfixia, Muerte, Golpes, Privación de la libertad / Secuestro, Otras formas de maltrato físico",0.027777777777777776
+Amenazas,"Caídas provocadas, Golpes",0.027777777777777776
+Amenazas,"Golpes, Heridas penetrantes",0.027777777777777776
+Amenazas,"Golpes, Privación de la libertad / Secuestro",0.027777777777777776
+Amenazas,"Golpes, Privación de la libertad / Secuestro, Sometimiento a corriente eléctrica, Otras formas de maltrato físico",0.027777777777777776
+Amenazas,"Muerte, Quemaduras",0.027777777777777776
+Amenazas,Quemaduras,0.027777777777777776
+Amenazas,Sometimiento a posturas forzadas,0.027777777777777776
+"Amenazas, Disparos intimidatorios","Golpes, Heridas penetrantes",1.0
+"Amenazas, Restricción injustificada de contacto",Golpes,0.5
+"Amenazas, Restricción injustificada de contacto","Golpes, Otras formas de maltrato físico",0.5
+Disparos intimidatorios,Golpes,0.4
+Disparos intimidatorios,"Golpes, Heridas penetrantes",0.2
+Disparos intimidatorios,"Golpes, Sometimiento a corriente eléctrica",0.2
+Disparos intimidatorios,"Muerte, Golpes, Desaparición (forzada)",0.2
+"Extorsión, forzamiento de la conducta, incitación a la violencia",Golpes,0.8
+"Extorsión, forzamiento de la conducta, incitación a la violencia","Golpes, Sometimiento a corriente eléctrica",0.2
+"Extorsión, forzamiento de la conducta, incitación a la violencia, Amenazas",Golpes,1.0
+"Extorsión, forzamiento de la conducta, incitación a la violencia, Amenazas, Disparos intimidatorios","Asfixia, Golpes, Sometimiento a corriente eléctrica, Otras formas de maltrato físico",1.0
+Hostigamiento,Golpes,0.7142857142857143
+Hostigamiento,"Golpes, Sometimiento a corriente eléctrica",0.14285714285714285
+Hostigamiento,"Muerte, Golpes",0.14285714285714285
+"Hostigamiento, Amenazas",Golpes,0.2727272727272727
+"Hostigamiento, Amenazas","Golpes, Otras formas de maltrato físico",0.18181818181818182
+"Hostigamiento, Amenazas",Muerte,0.18181818181818182
+"Hostigamiento, Amenazas",Otras formas de maltrato físico,0.18181818181818182
+"Hostigamiento, Amenazas","Caídas provocadas, Golpes, Privación de la libertad / Secuestro, Otras formas de maltrato físico",0.09090909090909091
+"Hostigamiento, Amenazas","Golpes, Privación de la libertad / Secuestro",0.09090909090909091
+"Hostigamiento, Amenazas, Disparos intimidatorios","Quemaduras, Golpes, Otras formas de maltrato físico",1.0
+"Hostigamiento, Extorsión, forzamiento de la conducta, incitación a la violencia, Amenazas",Golpes,1.0
+"Hostigamiento, Otras formas de maltrato psicológico, Ablandamiento, Extorsión, forzamiento de la conducta, incitación a la violencia, Amenazas, Alejamiento de vínculos, Restricción injustificada de contacto","Golpes, Sometimiento a posturas forzadas, Privación de la libertad / Secuestro, Otras formas de maltrato físico",1.0
+"Hostigamiento, Otras formas de maltrato psicológico, Amenazas","Golpes, Sometimiento a posturas forzadas, Otras formas de maltrato físico",0.5
+"Hostigamiento, Otras formas de maltrato psicológico, Amenazas","Quemaduras, Golpes, Otras formas de maltrato físico",0.5
+"Hostigamiento, Otras formas de maltrato psicológico, Extorsión, forzamiento de la conducta, incitación a la violencia, Amenazas de connotación sexual / de género","Golpes, Heridas penetrantes, Privación de la libertad / Secuestro, Otras formas de maltrato físico",1.0
+Ninguno,"Golpes, Sometimiento a posturas forzadas",1.0
+Otras formas de maltrato psicológico,Golpes,0.5
+Otras formas de maltrato psicológico,Otras formas de maltrato físico,0.3
+Otras formas de maltrato psicológico,"Golpes, Heridas penetrantes, Otras formas de maltrato físico",0.05
+Otras formas de maltrato psicológico,"Golpes, Otras formas de maltrato físico",0.05
+Otras formas de maltrato psicológico,"Muerte, Golpes, Privación de la libertad / Secuestro, Desaparición (forzada)",0.05
+Otras formas de maltrato psicológico,"Privación de la libertad / Secuestro, Otras formas de maltrato físico",0.05
+"Otras formas de maltrato psicológico, Amenazas","Asfixia, Golpes, Otras formas de maltrato físico",0.5
+"Otras formas de maltrato psicológico, Amenazas","Asfixia, Golpes, Sometimiento a corriente eléctrica, Otras formas de maltrato físico",0.25
+"Otras formas de maltrato psicológico, Amenazas","Golpes, Otras formas de maltrato físico",0.25
+"Otras formas de maltrato psicológico, Amenazas de connotación sexual / de género, Amenazas","Golpes, Privación de la libertad / Secuestro, Otras formas de maltrato físico",1.0
+Restricción injustificada de contacto,Otras formas de maltrato físico,0.5
+Restricción injustificada de contacto,Golpes,0.25
+Restricción injustificada de contacto,Heridas penetrantes,0.25
+Restricción injustificada derechos al trabajo y la educación,Golpes,0.5
+Restricción injustificada derechos al trabajo y la educación,"Muerte, Golpes, Heridas penetrantes",0.5

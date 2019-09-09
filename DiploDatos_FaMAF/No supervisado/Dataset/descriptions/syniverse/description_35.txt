@@ -1,0 +1,1 @@
+The SSE Oracle Database Administrator supports specific aspects of developmental, system test and production environments of an existing Oracle database environment

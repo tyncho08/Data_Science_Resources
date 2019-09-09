@@ -1,0 +1,1 @@
+Experience with Powershell scripting, specifically for SQL Server administration.

@@ -1,0 +1,1 @@
+Develop solutions across all layers, from the user interface through the application layer, service layer, and data layer to the database

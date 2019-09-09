@@ -1,0 +1,1 @@
+An understanding of the complexities around security and compliance in a public/multi or hybrid cloud environment (PCI, PII, HIPPA, etc)

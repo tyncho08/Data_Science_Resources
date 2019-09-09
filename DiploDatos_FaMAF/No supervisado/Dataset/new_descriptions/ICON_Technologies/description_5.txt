@@ -1,0 +1,1 @@
+Manages the integration of vendor activities and tracks and reviews vendor deliverables. 

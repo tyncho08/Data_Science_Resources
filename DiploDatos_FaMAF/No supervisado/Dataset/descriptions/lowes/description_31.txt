@@ -1,0 +1,1 @@
+Load testing includes validating application performance with virtual users and support to project team while addressing identified performance until completion of load testing

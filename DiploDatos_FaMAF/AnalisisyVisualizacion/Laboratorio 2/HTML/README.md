@@ -1,0 +1,2 @@
+* Se creó una página web, donde simulamos que nuestro informe corresponde a una nota de un blog de internet y en el cual se muestran los resultados obtenidos en el laboratorio 1.
+* Recomendamos descargar ó clonar el repositorio, para poder ver el archivo __Laboratorio2.html__ en el browser de su computadora.

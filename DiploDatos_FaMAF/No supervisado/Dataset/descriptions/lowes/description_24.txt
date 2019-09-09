@@ -1,0 +1,1 @@
+The primary purpose of this Peformance Testing role is to assist in the development of the software quality assurance (SQA) test strategy and project plans for moderately to highly complex IT initiatives across multiple SQA domains

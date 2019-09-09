@@ -1,0 +1,1 @@
+Implemented solutions leveraging Azure storage solutions such as Blob, Tables, and Queues 

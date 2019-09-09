@@ -1,0 +1,1 @@
+Systems are based on Oracle RDBMS, MySQL, MS SQL Server and Vertica hosted on Unix/Linux platforms

@@ -1,0 +1,1 @@
+sunshine intensity, cloudiness, precipitation

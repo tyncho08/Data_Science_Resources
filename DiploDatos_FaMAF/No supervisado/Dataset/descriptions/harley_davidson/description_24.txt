@@ -1,0 +1,1 @@
+The Integration Design Lead is responsible for the definition of target architecture and standards for our integration platform and service-based APIs as we transition to a more cloud-based and micro-services architecture
