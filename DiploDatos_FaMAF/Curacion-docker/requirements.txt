@@ -1,7 +1,7 @@
 matplotlib==2.1.2
 python-utils 
 numpy==1.14.0
-urllib3==1.22
+urllib3==1.26.5
 pandas==0.22.0  
 gmplot==1.2.0
 textacy==0.6.1
