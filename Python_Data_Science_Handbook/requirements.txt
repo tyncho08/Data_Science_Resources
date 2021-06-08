@@ -3,7 +3,7 @@ pandas<1
 scipy<1
 scikit-learn<1
 scikit-image<1
-pillow==3.4.2
+pillow==8.2.0
 matplotlib<2
 seaborn<1
 jupyter
