@@ -1,6 +1,6 @@
 matplotlib==2.1.2
 python-utils 
-numpy==1.14.0
+numpy==1.22.0
 urllib3==1.22
 pandas==0.22.0  
 gmplot==1.2.0
